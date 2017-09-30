@@ -1,5 +1,5 @@
 package three;
-
+//201621123029董明超
 public class Rational {
     private int v1;
     private int v2;
